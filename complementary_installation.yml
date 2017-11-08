@@ -1,5 +1,5 @@
 ---
-- hosts: venkat
+- hosts: local
   become: yes
   vars:
     MySQL_root_pass: bambeeq
